@@ -19,6 +19,11 @@
   var root = this,
       previousFirechat = root.Firechat;
 
+
+
+
+
+  
   function Firechat(firebaseRef, options) {
 
     // Cache the provided Database reference and the firebase.App instance
